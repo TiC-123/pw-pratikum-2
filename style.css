@@ -1,0 +1,39 @@
+html {
+    font-family: 'DM Sans', sans-serif;
+}
+
+body {
+    padding: 5px 10%;
+}
+
+.head-pos {
+    display: flex;
+}
+
+.text-up {
+    font-weight: 600;
+}
+
+.button {
+    padding: 16px 36px;
+    border-radius: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.background-primary-color {
+    background-color: #FF0000;
+}
+
+.background-secondary-color {
+    background-color: #0000FF;
+}
+
+.text-type {
+    font-size: 80px; 
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 8;
+    color: #0000FF;
+}
